@@ -1,0 +1,7 @@
+C:\Users\Saptarshi\Desktop\MindTec_trainees\Saptarshi_Banerjee\Reverse_Number\bin\Debug\Reverse_Number.exe.config
+C:\Users\Saptarshi\Desktop\MindTec_trainees\Saptarshi_Banerjee\Reverse_Number\bin\Debug\Reverse_Number.exe
+C:\Users\Saptarshi\Desktop\MindTec_trainees\Saptarshi_Banerjee\Reverse_Number\bin\Debug\Reverse_Number.pdb
+C:\Users\Saptarshi\Desktop\MindTec_trainees\Saptarshi_Banerjee\Reverse_Number\obj\Debug\Reverse_Number.csproj.AssemblyReference.cache
+C:\Users\Saptarshi\Desktop\MindTec_trainees\Saptarshi_Banerjee\Reverse_Number\obj\Debug\Reverse_Number.csproj.CoreCompileInputs.cache
+C:\Users\Saptarshi\Desktop\MindTec_trainees\Saptarshi_Banerjee\Reverse_Number\obj\Debug\Reverse_Number.exe
+C:\Users\Saptarshi\Desktop\MindTec_trainees\Saptarshi_Banerjee\Reverse_Number\obj\Debug\Reverse_Number.pdb
