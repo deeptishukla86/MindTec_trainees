@@ -1,0 +1,14 @@
+D:\EDU\C#\reverse_number\reverse_number\bin\Debug\netcoreapp3.1\reverse_number.exe
+D:\EDU\C#\reverse_number\reverse_number\bin\Debug\netcoreapp3.1\reverse_number.deps.json
+D:\EDU\C#\reverse_number\reverse_number\bin\Debug\netcoreapp3.1\reverse_number.runtimeconfig.json
+D:\EDU\C#\reverse_number\reverse_number\bin\Debug\netcoreapp3.1\reverse_number.runtimeconfig.dev.json
+D:\EDU\C#\reverse_number\reverse_number\bin\Debug\netcoreapp3.1\reverse_number.dll
+D:\EDU\C#\reverse_number\reverse_number\bin\Debug\netcoreapp3.1\reverse_number.pdb
+D:\EDU\C#\reverse_number\reverse_number\obj\Debug\netcoreapp3.1\reverse_number.csproj.AssemblyReference.cache
+D:\EDU\C#\reverse_number\reverse_number\obj\Debug\netcoreapp3.1\reverse_number.GeneratedMSBuildEditorConfig.editorconfig
+D:\EDU\C#\reverse_number\reverse_number\obj\Debug\netcoreapp3.1\reverse_number.AssemblyInfoInputs.cache
+D:\EDU\C#\reverse_number\reverse_number\obj\Debug\netcoreapp3.1\reverse_number.AssemblyInfo.cs
+D:\EDU\C#\reverse_number\reverse_number\obj\Debug\netcoreapp3.1\reverse_number.csproj.CoreCompileInputs.cache
+D:\EDU\C#\reverse_number\reverse_number\obj\Debug\netcoreapp3.1\reverse_number.dll
+D:\EDU\C#\reverse_number\reverse_number\obj\Debug\netcoreapp3.1\reverse_number.pdb
+D:\EDU\C#\reverse_number\reverse_number\obj\Debug\netcoreapp3.1\reverse_number.genruntimeconfig.cache
