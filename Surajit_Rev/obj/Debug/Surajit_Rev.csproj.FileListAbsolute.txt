@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\MindTec_trainees\Surajit_Rev\bin\Debug\Surajit_Rev.exe.config
+C:\Users\user\Desktop\MindTec_trainees\Surajit_Rev\bin\Debug\Surajit_Rev.exe
+C:\Users\user\Desktop\MindTec_trainees\Surajit_Rev\bin\Debug\Surajit_Rev.pdb
+C:\Users\user\Desktop\MindTec_trainees\Surajit_Rev\obj\Debug\Surajit_Rev.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MindTec_trainees\Surajit_Rev\obj\Debug\Surajit_Rev.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MindTec_trainees\Surajit_Rev\obj\Debug\Surajit_Rev.exe
+C:\Users\user\Desktop\MindTec_trainees\Surajit_Rev\obj\Debug\Surajit_Rev.pdb
