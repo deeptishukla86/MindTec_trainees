@@ -1,0 +1,7 @@
+C:\Users\Suprateem\Desktop\Projects\MindTec_trainees\Suprateem_Contribute\reverse a number\bin\Debug\reverse a number.exe.config
+C:\Users\Suprateem\Desktop\Projects\MindTec_trainees\Suprateem_Contribute\reverse a number\bin\Debug\reverse a number.exe
+C:\Users\Suprateem\Desktop\Projects\MindTec_trainees\Suprateem_Contribute\reverse a number\bin\Debug\reverse a number.pdb
+C:\Users\Suprateem\Desktop\Projects\MindTec_trainees\Suprateem_Contribute\reverse a number\obj\Debug\reverse a number.csproj.AssemblyReference.cache
+C:\Users\Suprateem\Desktop\Projects\MindTec_trainees\Suprateem_Contribute\reverse a number\obj\Debug\reverse a number.csproj.CoreCompileInputs.cache
+C:\Users\Suprateem\Desktop\Projects\MindTec_trainees\Suprateem_Contribute\reverse a number\obj\Debug\reverse a number.exe
+C:\Users\Suprateem\Desktop\Projects\MindTec_trainees\Suprateem_Contribute\reverse a number\obj\Debug\reverse a number.pdb
