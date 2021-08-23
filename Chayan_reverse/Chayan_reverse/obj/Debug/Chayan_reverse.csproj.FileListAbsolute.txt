@@ -1,0 +1,7 @@
+C:\Users\Chayan\MindTec_trainees\Chayan_reverse\Chayan_reverse\obj\Debug\Chayan_reverse.csproj.AssemblyReference.cache
+C:\Users\Chayan\MindTec_trainees\Chayan_reverse\Chayan_reverse\obj\Debug\Chayan_reverse.csproj.CoreCompileInputs.cache
+C:\Users\Chayan\MindTec_trainees\Chayan_reverse\Chayan_reverse\bin\Debug\Chayan_reverse.exe.config
+C:\Users\Chayan\MindTec_trainees\Chayan_reverse\Chayan_reverse\bin\Debug\Chayan_reverse.exe
+C:\Users\Chayan\MindTec_trainees\Chayan_reverse\Chayan_reverse\bin\Debug\Chayan_reverse.pdb
+C:\Users\Chayan\MindTec_trainees\Chayan_reverse\Chayan_reverse\obj\Debug\Chayan_reverse.exe
+C:\Users\Chayan\MindTec_trainees\Chayan_reverse\Chayan_reverse\obj\Debug\Chayan_reverse.pdb
