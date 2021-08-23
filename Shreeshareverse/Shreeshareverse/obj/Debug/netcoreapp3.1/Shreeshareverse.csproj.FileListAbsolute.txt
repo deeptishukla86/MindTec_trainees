@@ -1,0 +1,14 @@
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\bin\Debug\netcoreapp3.1\Shreeshareverse.exe
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\bin\Debug\netcoreapp3.1\Shreeshareverse.deps.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\bin\Debug\netcoreapp3.1\Shreeshareverse.runtimeconfig.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\bin\Debug\netcoreapp3.1\Shreeshareverse.runtimeconfig.dev.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\bin\Debug\netcoreapp3.1\Shreeshareverse.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\bin\Debug\netcoreapp3.1\Shreeshareverse.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\obj\Debug\netcoreapp3.1\Shreeshareverse.csproj.AssemblyReference.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\obj\Debug\netcoreapp3.1\Shreeshareverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\obj\Debug\netcoreapp3.1\Shreeshareverse.AssemblyInfoInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\obj\Debug\netcoreapp3.1\Shreeshareverse.AssemblyInfo.cs
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\obj\Debug\netcoreapp3.1\Shreeshareverse.csproj.CoreCompileInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\obj\Debug\netcoreapp3.1\Shreeshareverse.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\obj\Debug\netcoreapp3.1\Shreeshareverse.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\Shreeshareverse\Shreeshareverse\obj\Debug\netcoreapp3.1\Shreeshareverse.genruntimeconfig.cache
