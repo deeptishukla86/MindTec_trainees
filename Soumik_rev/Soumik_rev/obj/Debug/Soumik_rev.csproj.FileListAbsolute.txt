@@ -1,0 +1,7 @@
+F:\MindTec_trainees\Soumik_rev\Soumik_rev\bin\Debug\Soumik_rev.exe.config
+F:\MindTec_trainees\Soumik_rev\Soumik_rev\bin\Debug\Soumik_rev.exe
+F:\MindTec_trainees\Soumik_rev\Soumik_rev\bin\Debug\Soumik_rev.pdb
+F:\MindTec_trainees\Soumik_rev\Soumik_rev\obj\Debug\Soumik_rev.csproj.AssemblyReference.cache
+F:\MindTec_trainees\Soumik_rev\Soumik_rev\obj\Debug\Soumik_rev.csproj.CoreCompileInputs.cache
+F:\MindTec_trainees\Soumik_rev\Soumik_rev\obj\Debug\Soumik_rev.exe
+F:\MindTec_trainees\Soumik_rev\Soumik_rev\obj\Debug\Soumik_rev.pdb
