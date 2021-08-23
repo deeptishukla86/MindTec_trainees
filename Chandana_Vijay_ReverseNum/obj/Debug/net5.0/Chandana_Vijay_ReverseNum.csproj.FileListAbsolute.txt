@@ -1,0 +1,16 @@
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\bin\Debug\net5.0\Chandana_Vijay_ReverseNum.exe
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\bin\Debug\net5.0\Chandana_Vijay_ReverseNum.deps.json
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\bin\Debug\net5.0\Chandana_Vijay_ReverseNum.runtimeconfig.json
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\bin\Debug\net5.0\Chandana_Vijay_ReverseNum.runtimeconfig.dev.json
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\bin\Debug\net5.0\Chandana_Vijay_ReverseNum.dll
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\bin\Debug\net5.0\ref\Chandana_Vijay_ReverseNum.dll
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\bin\Debug\net5.0\Chandana_Vijay_ReverseNum.pdb
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\Chandana_Vijay_ReverseNum.csproj.AssemblyReference.cache
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\Chandana_Vijay_ReverseNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\Chandana_Vijay_ReverseNum.AssemblyInfoInputs.cache
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\Chandana_Vijay_ReverseNum.AssemblyInfo.cs
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\Chandana_Vijay_ReverseNum.csproj.CoreCompileInputs.cache
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\Chandana_Vijay_ReverseNum.dll
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\ref\Chandana_Vijay_ReverseNum.dll
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\Chandana_Vijay_ReverseNum.pdb
+C:\Users\chandana\MindTec_trainees\Chandana_Vijay_ReverseNum\obj\Debug\net5.0\Chandana_Vijay_ReverseNum.genruntimeconfig.cache

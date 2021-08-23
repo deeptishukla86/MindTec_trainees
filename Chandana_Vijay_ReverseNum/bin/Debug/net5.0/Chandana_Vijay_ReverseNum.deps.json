@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Chandana_Vijay_ReverseNum/1.0.0": {
+        "runtime": {
+          "Chandana_Vijay_ReverseNum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chandana_Vijay_ReverseNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
