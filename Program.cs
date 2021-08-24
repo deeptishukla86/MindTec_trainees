@@ -4,65 +4,54 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Stat_Var
+namespace Salary
 {
-    
-    class Area
+    class Mindteck
     {
-        public float area,length, breadth, side, radius;
-        public virtual void display()
-        {
-            Console.Write("The Area Of The ");
-        }
-
+        public string name;
+        public double basic;
+        public double TA, DA, HRA, PF;
     }
-    class Square : Area
+    class Employee : Mindteck
     {
-        public override void display()
+        double gross;
+        public void cal_sal()
         {
-            base.display();
-            Console.Write("Square is: ");
-            area = side * side;
-            Console.WriteLine(area);
+            TA = (basic * 10) / 1000;
+            DA = (basic * 10) / 100;
+            HRA = (basic * 5) / 100;
+            PF = (basic * 12) / 100;
+            gross = (basic + TA + DA + HRA - PF);
         }
-    }
-    class Rectangle : Area
-    {
-        public override void display()
+        public void display()
         {
-            base.display();
-            Console.Write("Rectangle is: ");
-            area = breadth * length;
-            Console.WriteLine(area);
-        }
-    }
-    class Circle : Area
-    {
-        public override void display()
-        {
-            base.display();
-            Console.Write("Circle is: ");
-            area = (3.14f * radius * radius);
-            Console.WriteLine(area);
+            Console.WriteLine("The Basic Salary of " + name + " is " + basic);
+            Console.WriteLine("The TA of " + name + " is " + TA);
+            Console.WriteLine("The DA Salary of " + name + " is " + DA);
+            Console.WriteLine("The HRA Salary of " + name + " is " + HRA);
+            Console.WriteLine("The PF Salary of " + name + " is " + PF);
+            Console.WriteLine("The gross Salary of " + name + " is " + gross);
+            Console.WriteLine();
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            Square s = new Square();
-            Rectangle r = new Rectangle();
-            Circle c = new Circle();
-            Console.WriteLine("Enter the side of the square: ");
-            s.side = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the length & breadth of the rectangle: ");
-            r.length= int.Parse(Console.ReadLine());
-            r.breadth = int.Parse(Console.ReadLine());
-            Console.WriteLine("Enter the radius of the square: ");
-            c.radius = int.Parse(Console.ReadLine());
-            s.display();
-            r.display();
-            c.display();
+            Employee m1 = new Employee();
+            Employee m2 = new Employee();
+            Console.WriteLine("The Employee1 Name: ");
+            m1.name = Console.ReadLine();
+            Console.WriteLine("The Employee1 Basic Salary: ");
+            m1.basic = (Convert.ToDouble(Console.ReadLine()));
+            Console.WriteLine("The Employee2 Name: ");
+            m2.name = Console.ReadLine();
+            Console.WriteLine("The Employee2 Basic Salary: ");
+            m2.basic = (Convert.ToDouble(Console.ReadLine()));
+            m1.cal_sal();
+            m1.display();
+            m2.cal_sal();
+            m2.display();
             Console.ReadLine();
         }
     }
