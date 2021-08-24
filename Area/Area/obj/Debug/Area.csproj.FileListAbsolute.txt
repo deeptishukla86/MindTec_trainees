@@ -1,0 +1,7 @@
+F:\MindTec_trainees\Area\Area\bin\Debug\Area.exe.config
+F:\MindTec_trainees\Area\Area\bin\Debug\Area.exe
+F:\MindTec_trainees\Area\Area\bin\Debug\Area.pdb
+F:\MindTec_trainees\Area\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+F:\MindTec_trainees\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+F:\MindTec_trainees\Area\Area\obj\Debug\Area.exe
+F:\MindTec_trainees\Area\Area\obj\Debug\Area.pdb
