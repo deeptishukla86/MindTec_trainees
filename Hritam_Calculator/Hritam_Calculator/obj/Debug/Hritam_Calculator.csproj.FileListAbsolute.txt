@@ -1,0 +1,7 @@
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\Hritam_Calculator\bin\Debug\Hritam_Calculator.exe.config
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\Hritam_Calculator\bin\Debug\Hritam_Calculator.exe
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\Hritam_Calculator\bin\Debug\Hritam_Calculator.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\Hritam_Calculator\obj\Debug\Hritam_Calculator.csproj.AssemblyReference.cache
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\Hritam_Calculator\obj\Debug\Hritam_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\Hritam_Calculator\obj\Debug\Hritam_Calculator.exe
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\Hritam_Calculator\obj\Debug\Hritam_Calculator.pdb
