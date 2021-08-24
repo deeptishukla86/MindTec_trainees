@@ -1,0 +1,14 @@
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\obj\Debug\netcoreapp3.1\transpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\obj\Debug\netcoreapp3.1\transpose.AssemblyInfoInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\obj\Debug\netcoreapp3.1\transpose.AssemblyInfo.cs
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\obj\Debug\netcoreapp3.1\transpose.csproj.CoreCompileInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\bin\Debug\netcoreapp3.1\transpose.exe
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\bin\Debug\netcoreapp3.1\transpose.deps.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\bin\Debug\netcoreapp3.1\transpose.runtimeconfig.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\bin\Debug\netcoreapp3.1\transpose.runtimeconfig.dev.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\bin\Debug\netcoreapp3.1\transpose.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\bin\Debug\netcoreapp3.1\transpose.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\obj\Debug\netcoreapp3.1\transpose.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\obj\Debug\netcoreapp3.1\transpose.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\obj\Debug\netcoreapp3.1\transpose.genruntimeconfig.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\transpose\obj\Debug\netcoreapp3.1\transpose.csproj.AssemblyReference.cache

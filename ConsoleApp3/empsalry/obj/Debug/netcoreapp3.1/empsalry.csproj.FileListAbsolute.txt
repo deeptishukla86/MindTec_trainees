@@ -1,0 +1,14 @@
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\bin\Debug\netcoreapp3.1\empsalry.exe
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\bin\Debug\netcoreapp3.1\empsalry.deps.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\bin\Debug\netcoreapp3.1\empsalry.runtimeconfig.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\bin\Debug\netcoreapp3.1\empsalry.runtimeconfig.dev.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\bin\Debug\netcoreapp3.1\empsalry.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\bin\Debug\netcoreapp3.1\empsalry.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\obj\Debug\netcoreapp3.1\empsalry.csproj.AssemblyReference.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\obj\Debug\netcoreapp3.1\empsalry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\obj\Debug\netcoreapp3.1\empsalry.AssemblyInfoInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\obj\Debug\netcoreapp3.1\empsalry.AssemblyInfo.cs
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\obj\Debug\netcoreapp3.1\empsalry.csproj.CoreCompileInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\obj\Debug\netcoreapp3.1\empsalry.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\obj\Debug\netcoreapp3.1\empsalry.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\empsalry\obj\Debug\netcoreapp3.1\empsalry.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\bin\Debug\netcoreapp3.1\jagged.exe
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\bin\Debug\netcoreapp3.1\jagged.deps.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\bin\Debug\netcoreapp3.1\jagged.runtimeconfig.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\bin\Debug\netcoreapp3.1\jagged.runtimeconfig.dev.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\bin\Debug\netcoreapp3.1\jagged.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\bin\Debug\netcoreapp3.1\jagged.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\obj\Debug\netcoreapp3.1\jagged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\obj\Debug\netcoreapp3.1\jagged.AssemblyInfoInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\obj\Debug\netcoreapp3.1\jagged.AssemblyInfo.cs
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\obj\Debug\netcoreapp3.1\jagged.csproj.CoreCompileInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\obj\Debug\netcoreapp3.1\jagged.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\obj\Debug\netcoreapp3.1\jagged.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\jagged\obj\Debug\netcoreapp3.1\jagged.genruntimeconfig.cache

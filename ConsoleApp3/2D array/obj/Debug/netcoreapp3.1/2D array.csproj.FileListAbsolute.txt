@@ -1,0 +1,14 @@
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\bin\Debug\netcoreapp3.1\2D array.exe
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\bin\Debug\netcoreapp3.1\2D array.deps.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\bin\Debug\netcoreapp3.1\2D array.runtimeconfig.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\bin\Debug\netcoreapp3.1\2D array.runtimeconfig.dev.json
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\bin\Debug\netcoreapp3.1\2D array.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\bin\Debug\netcoreapp3.1\2D array.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\obj\Debug\netcoreapp3.1\2D array.csproj.AssemblyReference.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\obj\Debug\netcoreapp3.1\2D array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\obj\Debug\netcoreapp3.1\2D array.AssemblyInfoInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\obj\Debug\netcoreapp3.1\2D array.AssemblyInfo.cs
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\obj\Debug\netcoreapp3.1\2D array.csproj.CoreCompileInputs.cache
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\obj\Debug\netcoreapp3.1\2D array.dll
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\obj\Debug\netcoreapp3.1\2D array.pdb
+C:\Users\Shreesha\Desktop\MindTec_trainees\ConsoleApp3\2D array\obj\Debug\netcoreapp3.1\2D array.genruntimeconfig.cache
