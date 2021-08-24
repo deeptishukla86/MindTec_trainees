@@ -4,22 +4,15 @@ namespace ReverseString
 {
     class Program
     {
+        static string[] arr = new string[] { "Sunday", "Monday", "Tuesday", "Wednessday", "Thrusday", "Friday", "Saturday" };
+
+        
         static void Main(string[] args)
         {
-            string str = Console.ReadLine();
-            Console.WriteLine(RevString(str));
-        }
-
-        private static string RevString(string str)
-        {
-            string revStr = "";
-            int length = str.Length - 1;
-            while (length >= 0)
+            foreach (var item in arr)
             {
-                revStr = revStr + str[length];
-                length--;
+                Console.WriteLine(item);
             }
-            return revStr;
         }
     }
 }

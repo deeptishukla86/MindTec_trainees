@@ -1,0 +1,16 @@
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\bin\Debug\net5.0\salary.exe
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\bin\Debug\net5.0\salary.deps.json
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\bin\Debug\net5.0\salary.runtimeconfig.json
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\bin\Debug\net5.0\salary.runtimeconfig.dev.json
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\bin\Debug\net5.0\salary.dll
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\bin\Debug\net5.0\ref\salary.dll
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\bin\Debug\net5.0\salary.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\salary.csproj.AssemblyReference.cache
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\salary.AssemblyInfoInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\salary.AssemblyInfo.cs
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\salary.csproj.CoreCompileInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\salary.dll
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\ref\salary.dll
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\salary.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\salary\salary\obj\Debug\net5.0\salary.genruntimeconfig.cache

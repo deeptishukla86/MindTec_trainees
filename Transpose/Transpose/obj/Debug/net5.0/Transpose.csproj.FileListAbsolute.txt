@@ -1,0 +1,16 @@
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\bin\Debug\net5.0\Transpose.exe
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\bin\Debug\net5.0\Transpose.deps.json
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\bin\Debug\net5.0\Transpose.runtimeconfig.json
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\bin\Debug\net5.0\Transpose.runtimeconfig.dev.json
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\bin\Debug\net5.0\Transpose.dll
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\bin\Debug\net5.0\ref\Transpose.dll
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\bin\Debug\net5.0\Transpose.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\Transpose.csproj.AssemblyReference.cache
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\Transpose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\Transpose.AssemblyInfoInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\Transpose.AssemblyInfo.cs
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\Transpose.csproj.CoreCompileInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\Transpose.dll
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\ref\Transpose.dll
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\Transpose.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\Transpose\Transpose\obj\Debug\net5.0\Transpose.genruntimeconfig.cache
