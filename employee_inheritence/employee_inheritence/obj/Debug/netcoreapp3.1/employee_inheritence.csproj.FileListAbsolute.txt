@@ -1,0 +1,14 @@
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\obj\Debug\netcoreapp3.1\employee_inheritence.csproj.AssemblyReference.cache
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\obj\Debug\netcoreapp3.1\employee_inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\obj\Debug\netcoreapp3.1\employee_inheritence.AssemblyInfoInputs.cache
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\obj\Debug\netcoreapp3.1\employee_inheritence.AssemblyInfo.cs
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\obj\Debug\netcoreapp3.1\employee_inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\bin\Debug\netcoreapp3.1\employee_inheritence.exe
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\bin\Debug\netcoreapp3.1\employee_inheritence.deps.json
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\bin\Debug\netcoreapp3.1\employee_inheritence.runtimeconfig.json
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\bin\Debug\netcoreapp3.1\employee_inheritence.runtimeconfig.dev.json
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\bin\Debug\netcoreapp3.1\employee_inheritence.dll
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\bin\Debug\netcoreapp3.1\employee_inheritence.pdb
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\obj\Debug\netcoreapp3.1\employee_inheritence.dll
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\obj\Debug\netcoreapp3.1\employee_inheritence.pdb
+C:\Users\Bhaskar Patra\source\repos\employee_inheritence\employee_inheritence\obj\Debug\netcoreapp3.1\employee_inheritence.genruntimeconfig.cache
