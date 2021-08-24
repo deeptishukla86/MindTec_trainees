@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\MindTec_trainees\Stat_Var\bin\Debug\Stat_Var.exe.config
+C:\Users\user\Desktop\MindTec_trainees\Stat_Var\bin\Debug\Stat_Var.exe
+C:\Users\user\Desktop\MindTec_trainees\Stat_Var\bin\Debug\Stat_Var.pdb
+C:\Users\user\Desktop\MindTec_trainees\Stat_Var\obj\Debug\Stat_Var.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MindTec_trainees\Stat_Var\obj\Debug\Stat_Var.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MindTec_trainees\Stat_Var\obj\Debug\Stat_Var.exe
+C:\Users\user\Desktop\MindTec_trainees\Stat_Var\obj\Debug\Stat_Var.pdb
