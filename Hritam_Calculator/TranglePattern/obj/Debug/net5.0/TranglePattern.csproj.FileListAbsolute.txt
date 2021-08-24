@@ -1,0 +1,16 @@
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\bin\Debug\net5.0\TranglePattern.exe
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\bin\Debug\net5.0\TranglePattern.deps.json
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\bin\Debug\net5.0\TranglePattern.runtimeconfig.json
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\bin\Debug\net5.0\TranglePattern.runtimeconfig.dev.json
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\bin\Debug\net5.0\TranglePattern.dll
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\bin\Debug\net5.0\ref\TranglePattern.dll
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\bin\Debug\net5.0\TranglePattern.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\TranglePattern.csproj.AssemblyReference.cache
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\TranglePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\TranglePattern.AssemblyInfoInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\TranglePattern.AssemblyInfo.cs
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\TranglePattern.csproj.CoreCompileInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\TranglePattern.dll
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\ref\TranglePattern.dll
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\TranglePattern.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\Hritam_Calculator\TranglePattern\obj\Debug\net5.0\TranglePattern.genruntimeconfig.cache

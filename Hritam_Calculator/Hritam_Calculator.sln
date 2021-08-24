@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31613.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hritam_Calculator", "Hritam_Calculator\Hritam_Calculator.csproj", "{A89F379C-736E-4880-9237-4848567D32AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TranglePattern", "TranglePattern\TranglePattern.csproj", "{1B2318DE-712B-47A6-B3E6-332A574B5483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{477579EB-5DC1-4020-B521-3E8598F5A0FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A89F379C-736E-4880-9237-4848567D32AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A89F379C-736E-4880-9237-4848567D32AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A89F379C-736E-4880-9237-4848567D32AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B2318DE-712B-47A6-B3E6-332A574B5483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2318DE-712B-47A6-B3E6-332A574B5483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2318DE-712B-47A6-B3E6-332A574B5483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2318DE-712B-47A6-B3E6-332A574B5483}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477579EB-5DC1-4020-B521-3E8598F5A0FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477579EB-5DC1-4020-B521-3E8598F5A0FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477579EB-5DC1-4020-B521-3E8598F5A0FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477579EB-5DC1-4020-B521-3E8598F5A0FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
