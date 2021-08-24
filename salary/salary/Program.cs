@@ -12,24 +12,12 @@ namespace salary
     class EmpSalary : Employee
     {
         float gross;
-        public void calculateTA()
-        {
-            ta = (10 * basic) / 100;
-        }
-        public void calculateHRA()
-        {
-            hra = (15 * basic) / 100;
-        }
-        public void calculateDA()
-        {
-            da = (30 * basic) / 100;
-        }
-        public void calculatePF()
-        {
-            pf = (12 * basic) / 100;
-        }
         public void calculate()
         {
+            ta = (10 * basic) / 100;
+            hra = (15 * basic) / 100;
+            da = (30 * basic) / 100;
+            pf = (12 * basic) / 100;
             gross = basic + ta + hra + da - pf;
         }
 
@@ -53,10 +41,6 @@ namespace salary
             emp1.name = Console.ReadLine();
             Console.Write("Enter basic pay of emp1: ");
             emp1.basic = (float)Convert.ToDouble(Console.ReadLine());
-            emp1.calculateTA();
-            emp1.calculateHRA();
-            emp1.calculateDA();
-            emp1.calculatePF();
             emp1.calculate();
             emp1.display();
             Console.WriteLine();
@@ -64,10 +48,6 @@ namespace salary
             emp2.name = Console.ReadLine();
             Console.Write("Enter basic pay of emp2: ");
             emp2.basic = (float)Convert.ToDouble(Console.ReadLine());
-            emp2.calculateTA();
-            emp2.calculateHRA();
-            emp2.calculateDA();
-            emp2.calculatePF();
             emp2.calculate();
             emp2.display();
         }
