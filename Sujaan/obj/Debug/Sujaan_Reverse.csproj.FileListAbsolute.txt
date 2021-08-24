@@ -1,0 +1,7 @@
+C:\Users\sujaa\OneDrive\Desktop\Sujaan\Sujaan\bin\Debug\Sujaan.exe.config
+C:\Users\sujaa\OneDrive\Desktop\Sujaan\Sujaan\bin\Debug\Sujaan.exe
+C:\Users\sujaa\OneDrive\Desktop\Sujaan\Sujaan\bin\Debug\Sujaan.pdb
+C:\Users\sujaa\OneDrive\Desktop\Sujaan\Sujaan\obj\Debug\Sujaan_Reverse.csproj.AssemblyReference.cache
+C:\Users\sujaa\OneDrive\Desktop\Sujaan\Sujaan\obj\Debug\Sujaan_Reverse.csproj.CoreCompileInputs.cache
+C:\Users\sujaa\OneDrive\Desktop\Sujaan\Sujaan\obj\Debug\Sujaan.exe
+C:\Users\sujaa\OneDrive\Desktop\Sujaan\Sujaan\obj\Debug\Sujaan.pdb
