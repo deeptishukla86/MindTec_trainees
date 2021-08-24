@@ -1,0 +1,15 @@
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.exe
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.deps.json
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.runtimeconfig.json
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.runtimeconfig.dev.json
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.dll
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\bin\Debug\net5.0\ref\ConsoleApp8.dll
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\bin\Debug\net5.0\ConsoleApp8.pdb
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.AssemblyInfoInputs.cache
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.AssemblyInfo.cs
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.dll
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\obj\Debug\net5.0\ref\ConsoleApp8.dll
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.pdb
+C:\Users\chandana\Csharploop\ConsoleApp1\ConsoleApp8\obj\Debug\net5.0\ConsoleApp8.genruntimeconfig.cache
