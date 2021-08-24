@@ -4,42 +4,46 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Salary
+namespace Employee_Inheritance
 {
-
-    class Basic_Salary
+    class Employee
     {
-        public float b;
-        public void input()
-        {
-            System.Console.WriteLine("Enter basic salary:");
-            b = float.Parse(Console.ReadLine());
-            //return b;
-        }
+        public string name;
+        public double salary;
+
     }
-
-    class FinalSalary : Basic_Salary
+    class Gross_salary : Employee
     {
-
-        public void calculate()
+        public double ta, da, hra;
+        public void gross_sal()
         {
-            input();
-            float TA = (b * 10) / 100;
-            float DA = (b * 10) / 100;
-            float HRA = (b * 5) / 100;
-            float gross = b + TA + DA + HRA;
-            System.Console.WriteLine("Gross Salary is : " + gross);
+            ta = (salary * 10) / 100;
+            da = (salary * 10) / 100;
+            hra = (salary * 5) / 100;
+            double tot = salary + ta + da + hra;
+            Console.WriteLine("Gross salary of " + name + " is " + tot);
         }
+
     }
-    class Program
+    class Programs
     {
+
         static void Main(string[] args)
         {
-            FinalSalary s = new FinalSalary();
-            //s.input();
-            s.calculate();
-            FinalSalary s2 = new FinalSalary();
-            s2.calculate();
+            Gross_salary e1 = new Gross_salary();
+            Gross_salary e2 = new Gross_salary();
+            Console.Write("1st Emoloyee name: ");
+            e1.name = Console.ReadLine();
+            Console.Write("1st Emoloyee Salary: ");
+            e1.salary = Convert.ToDouble(Console.ReadLine());
+            e1.gross_sal();
+            Console.Write("2nd Emoloyee name: ");
+            e2.name = Console.ReadLine();
+            Console.Write("2st Emoloyee Salary: ");
+            e2.salary = Convert.ToDouble(Console.ReadLine());
+            e2.gross_sal();
+
+
 
         }
     }
