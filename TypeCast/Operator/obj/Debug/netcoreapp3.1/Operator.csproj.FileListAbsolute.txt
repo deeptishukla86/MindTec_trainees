@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\obj\Debug\netcoreapp3.1\Operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.AssemblyReference.cache

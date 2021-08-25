@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\bin\Debug\netcoreapp3.1\CustomException.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\bin\Debug\netcoreapp3.1\CustomException.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\bin\Debug\netcoreapp3.1\CustomException.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\bin\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\bin\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\obj\Debug\netcoreapp3.1\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\obj\Debug\netcoreapp3.1\CustomException.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\obj\Debug\netcoreapp3.1\CustomException.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\obj\Debug\netcoreapp3.1\CustomException.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\obj\Debug\netcoreapp3.1\CustomException.genruntimeconfig.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\CustomException\obj\Debug\netcoreapp3.1\CustomException.csproj.AssemblyReference.cache

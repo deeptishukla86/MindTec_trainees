@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\bin\Debug\netcoreapp3.1\TypeCast.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\TypeCast\obj\Debug\netcoreapp3.1\TypeCast.genruntimeconfig.cache

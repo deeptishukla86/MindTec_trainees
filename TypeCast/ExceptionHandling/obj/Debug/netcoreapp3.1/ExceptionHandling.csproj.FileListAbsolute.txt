@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\bin\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\ExceptionHandling\obj\Debug\netcoreapp3.1\ExceptionHandling.genruntimeconfig.cache

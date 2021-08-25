@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\bin\Debug\netcoreapp3.1\InterfaceEC.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\bin\Debug\netcoreapp3.1\InterfaceEC.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\bin\Debug\netcoreapp3.1\InterfaceEC.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\bin\Debug\netcoreapp3.1\InterfaceEC.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\bin\Debug\netcoreapp3.1\InterfaceEC.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\bin\Debug\netcoreapp3.1\InterfaceEC.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\obj\Debug\netcoreapp3.1\InterfaceEC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\obj\Debug\netcoreapp3.1\InterfaceEC.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\obj\Debug\netcoreapp3.1\InterfaceEC.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\obj\Debug\netcoreapp3.1\InterfaceEC.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\obj\Debug\netcoreapp3.1\InterfaceEC.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\obj\Debug\netcoreapp3.1\InterfaceEC.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\obj\Debug\netcoreapp3.1\InterfaceEC.genruntimeconfig.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\InterfaceEC\obj\Debug\netcoreapp3.1\InterfaceEC.csproj.AssemblyReference.cache

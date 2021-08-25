@@ -1,0 +1,5 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Exception\obj\Debug\netcoreapp3.1\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\TypeCast\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
