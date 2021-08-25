@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\MindTec_trainees\Bank_Transaction\bin\Debug\Bank_Transaction.exe.config
+C:\Users\user\Desktop\MindTec_trainees\Bank_Transaction\bin\Debug\Bank_Transaction.exe
+C:\Users\user\Desktop\MindTec_trainees\Bank_Transaction\bin\Debug\Bank_Transaction.pdb
+C:\Users\user\Desktop\MindTec_trainees\Bank_Transaction\obj\Debug\Bank_Transaction.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\MindTec_trainees\Bank_Transaction\obj\Debug\Bank_Transaction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MindTec_trainees\Bank_Transaction\obj\Debug\Bank_Transaction.exe
+C:\Users\user\Desktop\MindTec_trainees\Bank_Transaction\obj\Debug\Bank_Transaction.pdb
