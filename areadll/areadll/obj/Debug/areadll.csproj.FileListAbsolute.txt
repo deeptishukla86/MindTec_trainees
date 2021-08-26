@@ -1,0 +1,6 @@
+C:\Users\sujaa\source\repos\areadll\areadll\bin\Debug\areadll.dll
+C:\Users\sujaa\source\repos\areadll\areadll\bin\Debug\areadll.pdb
+C:\Users\sujaa\source\repos\areadll\areadll\obj\Debug\areadll.csproj.AssemblyReference.cache
+C:\Users\sujaa\source\repos\areadll\areadll\obj\Debug\areadll.csproj.CoreCompileInputs.cache
+C:\Users\sujaa\source\repos\areadll\areadll\obj\Debug\areadll.dll
+C:\Users\sujaa\source\repos\areadll\areadll\obj\Debug\areadll.pdb

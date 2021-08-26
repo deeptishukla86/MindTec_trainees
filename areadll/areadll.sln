@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "areadll", "areadll\areadll.csproj", "{21E21C61-161F-4460-B1E9-8ACEE6777731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21E21C61-161F-4460-B1E9-8ACEE6777731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21E21C61-161F-4460-B1E9-8ACEE6777731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21E21C61-161F-4460-B1E9-8ACEE6777731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21E21C61-161F-4460-B1E9-8ACEE6777731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0904F1E2-0809-4B7C-A554-BE9203100E0C}
+	EndGlobalSection
+EndGlobal
