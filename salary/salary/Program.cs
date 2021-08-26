@@ -43,6 +43,7 @@ namespace salary
             emp1.basic = (float)Convert.ToDouble(Console.ReadLine());
             emp1.calculate();
             emp1.display();
+            emp1.basic = -emp2.basic;
             Console.WriteLine();
             Console.Write("Emter Employee2 name: ");
             emp2.name = Console.ReadLine();

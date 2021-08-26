@@ -1,0 +1,12 @@
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\bin\Debug\net5.0\Mindteck.deps.json
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\bin\Debug\net5.0\Mindteck.dll
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\bin\Debug\net5.0\ref\Mindteck.dll
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\bin\Debug\net5.0\Mindteck.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\obj\Debug\net5.0\Mindteck.csproj.AssemblyReference.cache
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\obj\Debug\net5.0\Mindteck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\obj\Debug\net5.0\Mindteck.AssemblyInfoInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\obj\Debug\net5.0\Mindteck.AssemblyInfo.cs
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\obj\Debug\net5.0\Mindteck.csproj.CoreCompileInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\obj\Debug\net5.0\Mindteck.dll
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\obj\Debug\net5.0\ref\Mindteck.dll
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Mindteck\obj\Debug\net5.0\Mindteck.pdb

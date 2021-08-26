@@ -1,0 +1,12 @@
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\bin\Debug\net5.0\Area.deps.json
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\bin\Debug\net5.0\Area.dll
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\bin\Debug\net5.0\ref\Area.dll
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\bin\Debug\net5.0\Area.pdb
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\obj\Debug\net5.0\Area.csproj.AssemblyReference.cache
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\obj\Debug\net5.0\Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\obj\Debug\net5.0\Area.AssemblyInfoInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\obj\Debug\net5.0\Area.AssemblyInfo.cs
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\obj\Debug\net5.0\Area.csproj.CoreCompileInputs.cache
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\obj\Debug\net5.0\Area.dll
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\obj\Debug\net5.0\ref\Area.dll
+C:\Users\Hritam Mondal\MindTec_trainees\TestApp\Area\obj\Debug\net5.0\Area.pdb
