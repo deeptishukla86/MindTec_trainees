@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\bin\Debug\netcoreapp3.1\PatialClass.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\bin\Debug\netcoreapp3.1\PatialClass.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\bin\Debug\netcoreapp3.1\PatialClass.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\bin\Debug\netcoreapp3.1\PatialClass.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\bin\Debug\netcoreapp3.1\PatialClass.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\bin\Debug\netcoreapp3.1\PatialClass.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\obj\Debug\netcoreapp3.1\PatialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\obj\Debug\netcoreapp3.1\PatialClass.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\obj\Debug\netcoreapp3.1\PatialClass.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\obj\Debug\netcoreapp3.1\PatialClass.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\obj\Debug\netcoreapp3.1\PatialClass.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\obj\Debug\netcoreapp3.1\PatialClass.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\obj\Debug\netcoreapp3.1\PatialClass.genruntimeconfig.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\PatialClass\obj\Debug\netcoreapp3.1\PatialClass.csproj.AssemblyReference.cache

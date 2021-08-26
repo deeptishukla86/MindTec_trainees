@@ -1,0 +1,13 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\bin\Debug\netcoreapp3.1\methodExam.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\bin\Debug\netcoreapp3.1\methodExam.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\bin\Debug\netcoreapp3.1\methodExam.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\bin\Debug\netcoreapp3.1\methodExam.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\bin\Debug\netcoreapp3.1\methodExam.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\bin\Debug\netcoreapp3.1\methodExam.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\obj\Debug\netcoreapp3.1\methodExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\obj\Debug\netcoreapp3.1\methodExam.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\obj\Debug\netcoreapp3.1\methodExam.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\obj\Debug\netcoreapp3.1\methodExam.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\obj\Debug\netcoreapp3.1\methodExam.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\obj\Debug\netcoreapp3.1\methodExam.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\methodExam\obj\Debug\netcoreapp3.1\methodExam.genruntimeconfig.cache

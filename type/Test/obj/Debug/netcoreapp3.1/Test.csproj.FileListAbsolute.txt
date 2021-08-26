@@ -1,0 +1,16 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\bin\Debug\netcoreapp3.1\Test.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\bin\Debug\netcoreapp3.1\Test.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\bin\Debug\netcoreapp3.1\Test.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\bin\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\bin\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\obj\Debug\netcoreapp3.1\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\obj\Debug\netcoreapp3.1\Test.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\obj\Debug\netcoreapp3.1\Test.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\obj\Debug\netcoreapp3.1\Test.csproj.CopyComplete
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\obj\Debug\netcoreapp3.1\Test.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\obj\Debug\netcoreapp3.1\Test.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\type\Test\obj\Debug\netcoreapp3.1\Test.genruntimeconfig.cache

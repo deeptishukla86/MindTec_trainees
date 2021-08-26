@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\obj\Debug\netcoreapp3.1\GetMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\obj\Debug\netcoreapp3.1\GetMethod.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\obj\Debug\netcoreapp3.1\GetMethod.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\obj\Debug\netcoreapp3.1\GetMethod.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\bin\Debug\netcoreapp3.1\GetMethod.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\bin\Debug\netcoreapp3.1\GetMethod.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\bin\Debug\netcoreapp3.1\GetMethod.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\bin\Debug\netcoreapp3.1\GetMethod.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\bin\Debug\netcoreapp3.1\GetMethod.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\bin\Debug\netcoreapp3.1\GetMethod.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\obj\Debug\netcoreapp3.1\GetMethod.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\obj\Debug\netcoreapp3.1\GetMethod.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\obj\Debug\netcoreapp3.1\GetMethod.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\GetMethod\obj\Debug\netcoreapp3.1\GetMethod.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\bin\Debug\netcoreapp3.1\SealedClass.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\SealedClass\obj\Debug\netcoreapp3.1\SealedClass.genruntimeconfig.cache

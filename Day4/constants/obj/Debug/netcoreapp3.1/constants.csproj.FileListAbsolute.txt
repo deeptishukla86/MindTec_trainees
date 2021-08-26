@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\obj\Debug\netcoreapp3.1\constants.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\obj\Debug\netcoreapp3.1\constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\obj\Debug\netcoreapp3.1\constants.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\obj\Debug\netcoreapp3.1\constants.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\obj\Debug\netcoreapp3.1\constants.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\bin\Debug\netcoreapp3.1\constants.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\bin\Debug\netcoreapp3.1\constants.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\bin\Debug\netcoreapp3.1\constants.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\bin\Debug\netcoreapp3.1\constants.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\bin\Debug\netcoreapp3.1\constants.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\bin\Debug\netcoreapp3.1\constants.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\obj\Debug\netcoreapp3.1\constants.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\obj\Debug\netcoreapp3.1\constants.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\constants\obj\Debug\netcoreapp3.1\constants.genruntimeconfig.cache

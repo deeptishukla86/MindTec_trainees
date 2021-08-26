@@ -1,0 +1,17 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\bin\Debug\netcoreapp3.1\ARea.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\bin\Debug\netcoreapp3.1\ARea.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\bin\Debug\netcoreapp3.1\ARea.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\bin\Debug\netcoreapp3.1\ARea.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\bin\Debug\netcoreapp3.1\ARea.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\bin\Debug\netcoreapp3.1\ARea.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\bin\Debug\netcoreapp3.1\ClassLibrary2.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\bin\Debug\netcoreapp3.1\ClassLibrary2.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.csproj.CopyComplete
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day4\ARea\obj\Debug\netcoreapp3.1\ARea.genruntimeconfig.cache
