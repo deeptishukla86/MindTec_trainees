@@ -1,0 +1,6 @@
+C:\Users\Bhaskar Patra\source\repos\area_of_object\dll_area\obj\Debug\dll_area.csproj.AssemblyReference.cache
+C:\Users\Bhaskar Patra\source\repos\area_of_object\dll_area\obj\Debug\dll_area.csproj.CoreCompileInputs.cache
+C:\Users\Bhaskar Patra\source\repos\area_of_object\dll_area\bin\Debug\dll_area.dll
+C:\Users\Bhaskar Patra\source\repos\area_of_object\dll_area\bin\Debug\dll_area.pdb
+C:\Users\Bhaskar Patra\source\repos\area_of_object\dll_area\obj\Debug\dll_area.dll
+C:\Users\Bhaskar Patra\source\repos\area_of_object\dll_area\obj\Debug\dll_area.pdb

@@ -1,0 +1,17 @@
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\bin\Debug\netcoreapp3.1\area_of_object.exe
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\bin\Debug\netcoreapp3.1\area_of_object.deps.json
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\bin\Debug\netcoreapp3.1\area_of_object.runtimeconfig.json
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\bin\Debug\netcoreapp3.1\area_of_object.runtimeconfig.dev.json
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\bin\Debug\netcoreapp3.1\area_of_object.dll
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\bin\Debug\netcoreapp3.1\area_of_object.pdb
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\bin\Debug\netcoreapp3.1\dll_area.dll
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\bin\Debug\netcoreapp3.1\dll_area.pdb
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.csproj.AssemblyReference.cache
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.AssemblyInfoInputs.cache
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.AssemblyInfo.cs
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.csproj.CoreCompileInputs.cache
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.csproj.CopyComplete
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.dll
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.pdb
+C:\Users\Bhaskar Patra\source\repos\area_of_object\area_of_object\obj\Debug\netcoreapp3.1\area_of_object.genruntimeconfig.cache

@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\area_of_object\\area_of_object.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\area_of_object\\area_of_object.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\area_of_object\\area_of_object.csproj",
+        "projectName": "area_of_object",
+        "projectPath": "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\area_of_object\\area_of_object.csproj",
+        "packagesPath": "C:\\Users\\Bhaskar Patra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\area_of_object\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Bhaskar Patra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\dll_area\\dll_area.csproj": {
+                "projectPath": "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\dll_area\\dll_area.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\dll_area\\dll_area.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\dll_area\\dll_area.csproj",
+        "projectName": "dll_area",
+        "projectPath": "C:\\Users\\Bhaskar Patra\\source\\repos\\area_of_object\\dll_area\\dll_area.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
