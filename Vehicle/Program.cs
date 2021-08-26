@@ -23,7 +23,7 @@ namespace Vehicle
         }
         public virtual void display()
         {
-            Console.WriteLine("The name of the " + colour + " colour vehicle is: " + name + " ,which having top speed of " + topspeed + " & giving a mileage of " + mileage + "km/ltr");
+            Console.WriteLine("The name of the " + colour + " colour vehicle is: " + name + " which having top speed of " + topspeed + " & giving a mileage of " + mileage + "km/ltr\n");
         }
     }
     class Four_Wheeler : Vehicle
