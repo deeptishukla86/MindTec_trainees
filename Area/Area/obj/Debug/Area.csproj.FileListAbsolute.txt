@@ -1,0 +1,6 @@
+C:\Users\Chayan\source\repos\Area\Area\bin\Debug\Area.dll
+C:\Users\Chayan\source\repos\Area\Area\bin\Debug\Area.pdb
+C:\Users\Chayan\source\repos\Area\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+C:\Users\Chayan\source\repos\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+C:\Users\Chayan\source\repos\Area\Area\obj\Debug\Area.dll
+C:\Users\Chayan\source\repos\Area\Area\obj\Debug\Area.pdb
