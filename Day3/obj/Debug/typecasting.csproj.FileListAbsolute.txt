@@ -1,0 +1,6 @@
+C:\Users\sujaa\source\repos\Day3\bin\Debug\Day3.exe.config
+C:\Users\sujaa\source\repos\Day3\bin\Debug\Day3.exe
+C:\Users\sujaa\source\repos\Day3\bin\Debug\Day3.pdb
+C:\Users\sujaa\source\repos\Day3\obj\Debug\typecasting.csproj.CoreCompileInputs.cache
+C:\Users\sujaa\source\repos\Day3\obj\Debug\Day3.exe
+C:\Users\sujaa\source\repos\Day3\obj\Debug\Day3.pdb
