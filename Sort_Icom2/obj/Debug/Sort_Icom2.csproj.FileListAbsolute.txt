@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C-Dev\Sort_Icom2\bin\Debug\Sort_Icom2.exe.config
+C:\Users\user\Desktop\C-Dev\Sort_Icom2\bin\Debug\Sort_Icom2.exe
+C:\Users\user\Desktop\C-Dev\Sort_Icom2\bin\Debug\Sort_Icom2.pdb
+C:\Users\user\Desktop\C-Dev\Sort_Icom2\obj\Debug\Sort_Icom2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-Dev\Sort_Icom2\obj\Debug\Sort_Icom2.exe
+C:\Users\user\Desktop\C-Dev\Sort_Icom2\obj\Debug\Sort_Icom2.pdb
