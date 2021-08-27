@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C-Dev\ArrayList_EmpDetails\bin\Debug\ArrayList_EmpDetails.exe.config
+C:\Users\user\Desktop\C-Dev\ArrayList_EmpDetails\bin\Debug\ArrayList_EmpDetails.exe
+C:\Users\user\Desktop\C-Dev\ArrayList_EmpDetails\bin\Debug\ArrayList_EmpDetails.pdb
+C:\Users\user\Desktop\C-Dev\ArrayList_EmpDetails\obj\Debug\ArrayList_EmpDetails.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-Dev\ArrayList_EmpDetails\obj\Debug\ArrayList_EmpDetails.exe
+C:\Users\user\Desktop\C-Dev\ArrayList_EmpDetails\obj\Debug\ArrayList_EmpDetails.pdb
