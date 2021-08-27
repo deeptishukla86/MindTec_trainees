@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C-Dev\Stack_EmpDetails\bin\Debug\Stack_EmpDetails.exe.config
+C:\Users\user\Desktop\C-Dev\Stack_EmpDetails\bin\Debug\Stack_EmpDetails.exe
+C:\Users\user\Desktop\C-Dev\Stack_EmpDetails\bin\Debug\Stack_EmpDetails.pdb
+C:\Users\user\Desktop\C-Dev\Stack_EmpDetails\obj\Debug\Stack_EmpDetails.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-Dev\Stack_EmpDetails\obj\Debug\Stack_EmpDetails.exe
+C:\Users\user\Desktop\C-Dev\Stack_EmpDetails\obj\Debug\Stack_EmpDetails.pdb
