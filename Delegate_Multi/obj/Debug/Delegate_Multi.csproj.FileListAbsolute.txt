@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C-Dev\Delegate_Multi\bin\Debug\Delegate_Multi.exe.config
+C:\Users\user\Desktop\C-Dev\Delegate_Multi\bin\Debug\Delegate_Multi.exe
+C:\Users\user\Desktop\C-Dev\Delegate_Multi\bin\Debug\Delegate_Multi.pdb
+C:\Users\user\Desktop\C-Dev\Delegate_Multi\obj\Debug\Delegate_Multi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C-Dev\Delegate_Multi\obj\Debug\Delegate_Multi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-Dev\Delegate_Multi\obj\Debug\Delegate_Multi.exe
+C:\Users\user\Desktop\C-Dev\Delegate_Multi\obj\Debug\Delegate_Multi.pdb
