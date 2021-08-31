@@ -1,0 +1,4 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Dependency\obj\Debug\netcoreapp3.1\Dependency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Dependency\obj\Debug\netcoreapp3.1\Dependency.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Dependency\obj\Debug\netcoreapp3.1\Dependency.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Dependency\obj\Debug\netcoreapp3.1\Dependency.csproj.CoreCompileInputs.cache

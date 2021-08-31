@@ -1,0 +1,5 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Day6\DelegatesExe\obj\Debug\netcoreapp3.1\DelegatesExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Day6\DelegatesExe\obj\Debug\netcoreapp3.1\DelegatesExe.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Day6\DelegatesExe\obj\Debug\netcoreapp3.1\DelegatesExe.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Day6\DelegatesExe\obj\Debug\netcoreapp3.1\DelegatesExe.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\Day6\DelegatesExe\obj\Debug\netcoreapp3.1\DelegatesExe.csproj.AssemblyReference.cache

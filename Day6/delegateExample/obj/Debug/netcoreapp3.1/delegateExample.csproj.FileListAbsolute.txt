@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\obj\Debug\netcoreapp3.1\delegateExample.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\obj\Debug\netcoreapp3.1\delegateExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\obj\Debug\netcoreapp3.1\delegateExample.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\obj\Debug\netcoreapp3.1\delegateExample.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\obj\Debug\netcoreapp3.1\delegateExample.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\bin\Debug\netcoreapp3.1\delegateExample.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\bin\Debug\netcoreapp3.1\delegateExample.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\bin\Debug\netcoreapp3.1\delegateExample.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\bin\Debug\netcoreapp3.1\delegateExample.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\bin\Debug\netcoreapp3.1\delegateExample.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\bin\Debug\netcoreapp3.1\delegateExample.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\obj\Debug\netcoreapp3.1\delegateExample.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\obj\Debug\netcoreapp3.1\delegateExample.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\delegateExample\obj\Debug\netcoreapp3.1\delegateExample.genruntimeconfig.cache

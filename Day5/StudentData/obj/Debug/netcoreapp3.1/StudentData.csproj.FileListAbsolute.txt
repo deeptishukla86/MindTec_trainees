@@ -1,0 +1,14 @@
+C:\Users\Aditya\source\repos\Day5\StudentData\bin\Debug\netcoreapp3.1\StudentData.exe
+C:\Users\Aditya\source\repos\Day5\StudentData\bin\Debug\netcoreapp3.1\StudentData.deps.json
+C:\Users\Aditya\source\repos\Day5\StudentData\bin\Debug\netcoreapp3.1\StudentData.runtimeconfig.json
+C:\Users\Aditya\source\repos\Day5\StudentData\bin\Debug\netcoreapp3.1\StudentData.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\Day5\StudentData\bin\Debug\netcoreapp3.1\StudentData.dll
+C:\Users\Aditya\source\repos\Day5\StudentData\bin\Debug\netcoreapp3.1\StudentData.pdb
+C:\Users\Aditya\source\repos\Day5\StudentData\obj\Debug\netcoreapp3.1\StudentData.csproj.AssemblyReference.cache
+C:\Users\Aditya\source\repos\Day5\StudentData\obj\Debug\netcoreapp3.1\StudentData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\source\repos\Day5\StudentData\obj\Debug\netcoreapp3.1\StudentData.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\Day5\StudentData\obj\Debug\netcoreapp3.1\StudentData.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\Day5\StudentData\obj\Debug\netcoreapp3.1\StudentData.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Day5\StudentData\obj\Debug\netcoreapp3.1\StudentData.dll
+C:\Users\Aditya\source\repos\Day5\StudentData\obj\Debug\netcoreapp3.1\StudentData.pdb
+C:\Users\Aditya\source\repos\Day5\StudentData\obj\Debug\netcoreapp3.1\StudentData.genruntimeconfig.cache

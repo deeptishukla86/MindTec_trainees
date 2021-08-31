@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\bin\Debug\netcoreapp3.1\ExampleDelegates.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\bin\Debug\netcoreapp3.1\ExampleDelegates.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\bin\Debug\netcoreapp3.1\ExampleDelegates.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\bin\Debug\netcoreapp3.1\ExampleDelegates.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\bin\Debug\netcoreapp3.1\ExampleDelegates.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\bin\Debug\netcoreapp3.1\ExampleDelegates.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\obj\Debug\netcoreapp3.1\ExampleDelegates.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\obj\Debug\netcoreapp3.1\ExampleDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\obj\Debug\netcoreapp3.1\ExampleDelegates.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\obj\Debug\netcoreapp3.1\ExampleDelegates.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\obj\Debug\netcoreapp3.1\ExampleDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\obj\Debug\netcoreapp3.1\ExampleDelegates.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\obj\Debug\netcoreapp3.1\ExampleDelegates.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\ExampleDelegates\obj\Debug\netcoreapp3.1\ExampleDelegates.genruntimeconfig.cache

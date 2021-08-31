@@ -1,0 +1,13 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\bin\Debug\netcoreapp3.1\SolidExe.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\bin\Debug\netcoreapp3.1\SolidExe.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\bin\Debug\netcoreapp3.1\SolidExe.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\bin\Debug\netcoreapp3.1\SolidExe.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\bin\Debug\netcoreapp3.1\SolidExe.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\bin\Debug\netcoreapp3.1\SolidExe.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\obj\Debug\netcoreapp3.1\SolidExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\obj\Debug\netcoreapp3.1\SolidExe.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\obj\Debug\netcoreapp3.1\SolidExe.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\obj\Debug\netcoreapp3.1\SolidExe.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\obj\Debug\netcoreapp3.1\SolidExe.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\obj\Debug\netcoreapp3.1\SolidExe.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\SolidExe\obj\Debug\netcoreapp3.1\SolidExe.genruntimeconfig.cache

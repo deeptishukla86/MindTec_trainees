@@ -1,0 +1,14 @@
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\bin\Debug\netcoreapp3.1\DictionaryExe.exe
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\bin\Debug\netcoreapp3.1\DictionaryExe.deps.json
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\bin\Debug\netcoreapp3.1\DictionaryExe.runtimeconfig.json
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\bin\Debug\netcoreapp3.1\DictionaryExe.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\bin\Debug\netcoreapp3.1\DictionaryExe.dll
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\bin\Debug\netcoreapp3.1\DictionaryExe.pdb
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\obj\Debug\netcoreapp3.1\DictionaryExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\obj\Debug\netcoreapp3.1\DictionaryExe.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\obj\Debug\netcoreapp3.1\DictionaryExe.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\obj\Debug\netcoreapp3.1\DictionaryExe.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\obj\Debug\netcoreapp3.1\DictionaryExe.dll
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\obj\Debug\netcoreapp3.1\DictionaryExe.pdb
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\obj\Debug\netcoreapp3.1\DictionaryExe.genruntimeconfig.cache
+C:\Users\Aditya\source\repos\Day5\DictionaryExe\obj\Debug\netcoreapp3.1\DictionaryExe.csproj.AssemblyReference.cache

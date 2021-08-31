@@ -1,0 +1,14 @@
+C:\Users\Aditya\source\repos\Day5\GenericExe\bin\Debug\netcoreapp3.1\GenericExe.exe
+C:\Users\Aditya\source\repos\Day5\GenericExe\bin\Debug\netcoreapp3.1\GenericExe.deps.json
+C:\Users\Aditya\source\repos\Day5\GenericExe\bin\Debug\netcoreapp3.1\GenericExe.runtimeconfig.json
+C:\Users\Aditya\source\repos\Day5\GenericExe\bin\Debug\netcoreapp3.1\GenericExe.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\Day5\GenericExe\bin\Debug\netcoreapp3.1\GenericExe.dll
+C:\Users\Aditya\source\repos\Day5\GenericExe\bin\Debug\netcoreapp3.1\GenericExe.pdb
+C:\Users\Aditya\source\repos\Day5\GenericExe\obj\Debug\netcoreapp3.1\GenericExe.csproj.AssemblyReference.cache
+C:\Users\Aditya\source\repos\Day5\GenericExe\obj\Debug\netcoreapp3.1\GenericExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\source\repos\Day5\GenericExe\obj\Debug\netcoreapp3.1\GenericExe.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\Day5\GenericExe\obj\Debug\netcoreapp3.1\GenericExe.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\Day5\GenericExe\obj\Debug\netcoreapp3.1\GenericExe.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Day5\GenericExe\obj\Debug\netcoreapp3.1\GenericExe.dll
+C:\Users\Aditya\source\repos\Day5\GenericExe\obj\Debug\netcoreapp3.1\GenericExe.pdb
+C:\Users\Aditya\source\repos\Day5\GenericExe\obj\Debug\netcoreapp3.1\GenericExe.genruntimeconfig.cache

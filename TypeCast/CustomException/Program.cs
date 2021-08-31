@@ -2,11 +2,12 @@
 
 namespace CustomException
 {
+    public delegate void AddDelegate(int a,int b);
     public class bank
     {
-        int rem = 3;
-        int sum = 0;
-        public void add()
+         
+        
+        public void add(int rem,int sum)
         {
             
             for (int i = 1; i <= rem; i++)
@@ -44,10 +45,13 @@ namespace CustomException
             {
                 
                 bank b = new bank();
-                
+                AddDelegate ad = new AddDelegate(b.add);
+
                 try
                 {
-                    b.add();
+                 ad(0);
+                 ad(3);
+
                 }
                 catch(account e)
                 {

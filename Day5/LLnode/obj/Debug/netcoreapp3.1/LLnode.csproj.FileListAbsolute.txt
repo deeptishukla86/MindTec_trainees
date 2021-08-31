@@ -1,0 +1,14 @@
+C:\Users\Aditya\source\repos\Day5\LLnode\bin\Debug\netcoreapp3.1\LLnode.exe
+C:\Users\Aditya\source\repos\Day5\LLnode\bin\Debug\netcoreapp3.1\LLnode.deps.json
+C:\Users\Aditya\source\repos\Day5\LLnode\bin\Debug\netcoreapp3.1\LLnode.runtimeconfig.json
+C:\Users\Aditya\source\repos\Day5\LLnode\bin\Debug\netcoreapp3.1\LLnode.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\Day5\LLnode\bin\Debug\netcoreapp3.1\LLnode.dll
+C:\Users\Aditya\source\repos\Day5\LLnode\bin\Debug\netcoreapp3.1\LLnode.pdb
+C:\Users\Aditya\source\repos\Day5\LLnode\obj\Debug\netcoreapp3.1\LLnode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\source\repos\Day5\LLnode\obj\Debug\netcoreapp3.1\LLnode.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\Day5\LLnode\obj\Debug\netcoreapp3.1\LLnode.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\Day5\LLnode\obj\Debug\netcoreapp3.1\LLnode.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Day5\LLnode\obj\Debug\netcoreapp3.1\LLnode.dll
+C:\Users\Aditya\source\repos\Day5\LLnode\obj\Debug\netcoreapp3.1\LLnode.pdb
+C:\Users\Aditya\source\repos\Day5\LLnode\obj\Debug\netcoreapp3.1\LLnode.genruntimeconfig.cache
+C:\Users\Aditya\source\repos\Day5\LLnode\obj\Debug\netcoreapp3.1\LLnode.csproj.AssemblyReference.cache

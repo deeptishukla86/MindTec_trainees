@@ -1,0 +1,14 @@
+C:\Users\Aditya\source\repos\Day5\QueueExe\bin\Debug\netcoreapp3.1\QueueExe.exe
+C:\Users\Aditya\source\repos\Day5\QueueExe\bin\Debug\netcoreapp3.1\QueueExe.deps.json
+C:\Users\Aditya\source\repos\Day5\QueueExe\bin\Debug\netcoreapp3.1\QueueExe.runtimeconfig.json
+C:\Users\Aditya\source\repos\Day5\QueueExe\bin\Debug\netcoreapp3.1\QueueExe.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\Day5\QueueExe\bin\Debug\netcoreapp3.1\QueueExe.dll
+C:\Users\Aditya\source\repos\Day5\QueueExe\bin\Debug\netcoreapp3.1\QueueExe.pdb
+C:\Users\Aditya\source\repos\Day5\QueueExe\obj\Debug\netcoreapp3.1\QueueExe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\source\repos\Day5\QueueExe\obj\Debug\netcoreapp3.1\QueueExe.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\Day5\QueueExe\obj\Debug\netcoreapp3.1\QueueExe.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\Day5\QueueExe\obj\Debug\netcoreapp3.1\QueueExe.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Day5\QueueExe\obj\Debug\netcoreapp3.1\QueueExe.dll
+C:\Users\Aditya\source\repos\Day5\QueueExe\obj\Debug\netcoreapp3.1\QueueExe.pdb
+C:\Users\Aditya\source\repos\Day5\QueueExe\obj\Debug\netcoreapp3.1\QueueExe.genruntimeconfig.cache
+C:\Users\Aditya\source\repos\Day5\QueueExe\obj\Debug\netcoreapp3.1\QueueExe.csproj.AssemblyReference.cache

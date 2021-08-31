@@ -1,0 +1,14 @@
+C:\Users\Aditya\source\repos\Day5\Example\bin\Debug\netcoreapp3.1\Example.exe
+C:\Users\Aditya\source\repos\Day5\Example\bin\Debug\netcoreapp3.1\Example.deps.json
+C:\Users\Aditya\source\repos\Day5\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.json
+C:\Users\Aditya\source\repos\Day5\Example\bin\Debug\netcoreapp3.1\Example.runtimeconfig.dev.json
+C:\Users\Aditya\source\repos\Day5\Example\bin\Debug\netcoreapp3.1\Example.dll
+C:\Users\Aditya\source\repos\Day5\Example\bin\Debug\netcoreapp3.1\Example.pdb
+C:\Users\Aditya\source\repos\Day5\Example\obj\Debug\netcoreapp3.1\Example.csproj.AssemblyReference.cache
+C:\Users\Aditya\source\repos\Day5\Example\obj\Debug\netcoreapp3.1\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\source\repos\Day5\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfoInputs.cache
+C:\Users\Aditya\source\repos\Day5\Example\obj\Debug\netcoreapp3.1\Example.AssemblyInfo.cs
+C:\Users\Aditya\source\repos\Day5\Example\obj\Debug\netcoreapp3.1\Example.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\source\repos\Day5\Example\obj\Debug\netcoreapp3.1\Example.dll
+C:\Users\Aditya\source\repos\Day5\Example\obj\Debug\netcoreapp3.1\Example.pdb
+C:\Users\Aditya\source\repos\Day5\Example\obj\Debug\netcoreapp3.1\Example.genruntimeconfig.cache

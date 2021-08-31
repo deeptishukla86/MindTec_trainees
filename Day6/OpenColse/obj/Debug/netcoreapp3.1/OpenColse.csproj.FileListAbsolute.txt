@@ -1,0 +1,14 @@
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\obj\Debug\netcoreapp3.1\OpenColse.csproj.AssemblyReference.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\obj\Debug\netcoreapp3.1\OpenColse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\obj\Debug\netcoreapp3.1\OpenColse.AssemblyInfoInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\obj\Debug\netcoreapp3.1\OpenColse.AssemblyInfo.cs
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\obj\Debug\netcoreapp3.1\OpenColse.csproj.CoreCompileInputs.cache
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\bin\Debug\netcoreapp3.1\OpenColse.exe
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\bin\Debug\netcoreapp3.1\OpenColse.deps.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\bin\Debug\netcoreapp3.1\OpenColse.runtimeconfig.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\bin\Debug\netcoreapp3.1\OpenColse.runtimeconfig.dev.json
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\bin\Debug\netcoreapp3.1\OpenColse.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\bin\Debug\netcoreapp3.1\OpenColse.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\obj\Debug\netcoreapp3.1\OpenColse.dll
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\obj\Debug\netcoreapp3.1\OpenColse.pdb
+C:\Users\Aditya\Desktop\MindTec_trainees\Day6\OpenColse\obj\Debug\netcoreapp3.1\OpenColse.genruntimeconfig.cache
