@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <script src="~/Scripts/modernizr-2.6.2.js"></script>
+    <style>
+        body {
+            background-color: antiquewhite;
+        }
+        h1
+        {
+            align-content:center;
+            color:chocolate;
+            font-family:'Times New Roman';
+            font-size: 300%;
+        }
+        h2 {
+            backdrop-filter:drop-shadow();
+            color: red;
+            font-family:Century;
+            font-size:200%;
+        }
+        p {
+            color: red;
+            font-family: courier;
+            font-size: 100%;
+        }
+        a:link, a:visited {            
+            color: black;
+            border-radius:5px;
+            padding: 10px 10px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        a:hover, a:active {
+            border-radius:5px;
+            background-color:crimson;
+        }
+        table, th, td {
+            border: 1px solid white;
+            border-collapse: collapse;
+        }
+
+        th, td,thead {
+            
+            background-color:lavender;
+        }
+
+            
+        }
+    </style>
+</head>
+<img src="https://www.mindteck.com/assets/images/logo.jpg" />
+
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+               
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("HOME", "index", "userdetails")</li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                
+                  <li>@Html.ActionLink("Register", "Create", "student_info")</li>
+                  <li>@Html.ActionLink("Placements", "placements", "student_info")</li>
+                  <li>@Html.ActionLink("All Student Details", "index", "student_info")</li>
+                  <li><a>Hello - @User.Identity.Name</a></li>
+                <li>@Html.ActionLink("Logout", "Logout", "userdetails")</li> }
+                  else
+                  {
+                  
+                  <li>@Html.ActionLink("Login", "Login", "userdetails")</li>}
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - Minteck College</p>
+            @RenderSection("scripts", required: false)
+        </footer>
+    </div>
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
